@@ -1,0 +1,16 @@
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery6\Assesment_SQLQuery6\bin\Debug\Assesment_SQLQuery6.exe.config
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery6\Assesment_SQLQuery6\bin\Debug\Assesment_SQLQuery6.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery6\Assesment_SQLQuery6\bin\Debug\Assesment_SQLQuery6.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_6\Assesment_SQLQuery6\Assesment_SQLQuery6\bin\Debug\Assesment_SQLQuery6.exe.config
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_6\Assesment_SQLQuery6\Assesment_SQLQuery6\bin\Debug\Assesment_SQLQuery6.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_6\Assesment_SQLQuery6\Assesment_SQLQuery6\bin\Debug\Assesment_SQLQuery6.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_6\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_6\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_6\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_6\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_6\Assesment_SQLQuery6\Assesment_SQLQuery6\obj\Debug\Assesment_SQLQuery6.pdb
